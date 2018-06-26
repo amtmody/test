@@ -14,6 +14,10 @@ public final class Address {
         this.street = street;
     }
 
+ 	public void setStreet1(final String street) {
+        this.street = street;
+    }
+
     public String getCity() {
         return city;
     }
@@ -29,6 +33,6 @@ public final class Address {
     public void setZip(final String zip) {
         this.zip = zip;
     }
-    
+
     // Rest of implementation
 }
