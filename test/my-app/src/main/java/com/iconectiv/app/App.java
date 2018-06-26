@@ -1,7 +1,7 @@
 package com.iconectiv.app;
 
 /**
- * Hello world first example!
+ * Hello world first example completed!
  *
  */
 public class App
