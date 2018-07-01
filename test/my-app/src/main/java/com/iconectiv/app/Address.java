@@ -1,3 +1,5 @@
+package com.iconectiv.app;
+
 public final class Address {
     private String street;
     private String city;

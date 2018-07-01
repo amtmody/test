@@ -1,5 +1,6 @@
+package com.iconectiv.app;
 public final class Person {
-    private ObjectId id;
+   // private ObjectId id;
     private String name;
     private int age;
     private Address address;
@@ -7,13 +8,13 @@ public final class Person {
     public Person() {
     }
 
-    public ObjectId getId() {
+   /* public ObjectId getId() {
         return id;
     }
 
     public void setId(final ObjectId id) {
         this.id = id;
-    }
+    }*/
 
     public String getName() {
         return name;
